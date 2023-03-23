@@ -40,6 +40,17 @@ header a {
 
 /* SECTION about */
 
+.orb-canvas {
+position: absolute;
+top: 0;
+right: 0;
+height: 100%;
+}
+.about {
+  position: relative;
+}
+
+
 button {
   font-family: "Raleway", sans—serif;
   font-size: 15px;
